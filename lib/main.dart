@@ -207,8 +207,8 @@ class _MemoListScreenState extends State<MemoListScreen> {
               onTap: _showPetanSaying,
               child: Image.asset(
                 'assets/images/petan.png',
-                width: 100,
-                height: 100,
+                width: 600,
+                height: 600,
               ),
             ),
           ),
